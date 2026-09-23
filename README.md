@@ -98,3 +98,7 @@ script/            paper experiment launchers
 - S4/S5 inputs: per-channel normalization
 
 All reported metrics are computed after inverse normalization.
+
+## License
+
+This project is released under the [Apache License 2.0](LICENSE).
